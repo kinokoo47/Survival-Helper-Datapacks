@@ -6,7 +6,7 @@
 <h3>コマンド</h3>
 <p>経験値を[数]個のエンチャントの瓶に変換</p>
 <code>/trigger bottle-get set [数]</code>
-<br><br><p>経験値をすべてエンチャントの瓶に変換</p>
+<br><br><br><p>経験値をすべてエンチャントの瓶に変換</p>
 <code>/trigger bottle-get</code><br><br><br>
 
 <h2>Sethome</h2>
@@ -15,14 +15,11 @@
 <br>・いつでもホームにテレポートできます
 <br>・ディメンションを超えたテレポートはできません</p>
 <h3>コマンド</h3>
-<p>ホームを現在の位置として [ID]のスロットに設定</p>
-<code>/trigger sethome set [ID]</code>
-<br><br><p>[ID]のスロットに設定されているホームにテレポート</p>
-<code>/trigger gohome set [ID]</code>
-<br><br><p>[ID]のスロットに設定されているホームを削除</p>
-<code>/trigger delhome set [ID]</code>
-
-<br><br><p>[ID]のスロットに設定されているホームを削除</p>
-<code>/trigger sethome</code>
-<code>/trigger gohome</code>
-<code>/trigger delhome</code><br><br><br>
+<p>現在の位置をホームとして[id]のスロットに設定</p>
+<code>/trigger sethome set [id]</code>
+<br><br><br><p>[id]のスロットに設定されているホームにテレポート</p>
+<code>/trigger gohome set [id]</code>
+<br><br><br><p>[id]のスロットに設定されているホームを削除</p>
+<code>/trigger delhome set [id]</code>
+<br><br><br><p>設定されているホームをすべて表示</p>
+<code>/trigger sethome</code><code>/trigger gohome</code<code>/trigger delhome</code><br><br><br>
