@@ -22,4 +22,4 @@
 <br><br><br><p>[id]のスロットに設定されているホームを削除</p>
 <code>/trigger delhome set [id]</code>
 <br><br><br><p>設定されているホームをすべて表示</p>
-<code>/trigger sethome</code><code>/trigger gohome</code<code>/trigger delhome</code><br><br><br>
+<code>/trigger sethome</code><code>/trigger gohome</code><code>/trigger delhome</code><br><br><br>
